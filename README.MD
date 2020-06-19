@@ -53,7 +53,7 @@ To add likes
 {{ base_url  }}/repositories/:id/like
 ```
 
-To add del
+To del
 ```
 {{ base_url  }}/repositories/:id
 ```
