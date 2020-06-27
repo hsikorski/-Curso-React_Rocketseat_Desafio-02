@@ -2,7 +2,7 @@
 
 on terminal
 ```
-yarn 
+yarn install
 ```
 
 ## To run
